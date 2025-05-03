@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
-# Date 29.04.2025
+# Date 03/4/2025
 
 # Aim : 
 
@@ -49,8 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-Name:S.Dhamini
-reg no:212224040064
+Name: B.R.Abishek
+reg no: 212224110002
 ```
 ```
 import numpy as np
@@ -79,7 +79,8 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 # Output : 
-![maths](https://github.com/user-attachments/assets/5461bcfa-cd17-48a1-b525-3323e042d4c4)
+![Screenshot 2025-05-03 152755](https://github.com/user-attachments/assets/66a1c785-4f26-4ede-9cf4-ec958b8ff70f)
+
 
 
 
